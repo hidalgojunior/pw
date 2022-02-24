@@ -1,6 +1,7 @@
 # Programação para Web I
 
 **Prof. Arnaldo Martins Hidalgo Junior**
+
 *arnaldo.hidalgo@etec.sp.gov.br*
 
 **Aula 01** - Apresentação do HTML, estrutura básica, cabeçalhos, parágrafos, cores básicas.
